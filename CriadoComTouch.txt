@@ -1,0 +1,7 @@
+Arquivo criado e editado com comandos no terminal do linux, bem como seu respectivo diretorio
+Comandos usados:
+mkdir
+touch
+vi
+:w
+:q
